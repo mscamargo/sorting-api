@@ -1,0 +1,9 @@
+services:
+  app:
+    image: denoland/deno
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - "8000:8000"
+    command: deno task start

@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.iconTheme": "material-icon-theme"
+}
